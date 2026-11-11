@@ -11,7 +11,7 @@ export const profile = {
     "Previously, I completed my degree at FPT University, and have interned at Some Lab. Outside of research I enjoy open-source, teaching, and long hikes.",
   ],
   links: [
-    { label: "Google Scholar", href: "https://scholar.google.com/" },
+    { label: "Contact email", href: "mailto:hoanglamit.com@gmail.com" },
     { label: "Phone", href: "tel:+84385482406" },
     { label: "Zalo", href: "https://zalo.me/+84385482406" },
     { label: "Facebook", href: "https://www.facebook.com/dohoanglam.dev" },
