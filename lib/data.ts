@@ -1,5 +1,3 @@
-// ✏️ Edit this file to personalize your portfolio. All content lives here.
-
 export const profile = {
   name: "Do Hoang Lam",
   title: "AI Researcher",
@@ -10,14 +8,13 @@ export const profile = {
   email: "dohoanglam2902@gmail.com",
   about: [
     "I'm an AI researcher working at the intersection of machine learning, natural language processing, and interpretability. My work asks why modern neural networks generalize, and how we can make their behavior more predictable.",
-    "Previously, I completed my degree at Your University, and have interned at Some Lab. Outside of research I enjoy open-source, teaching, and long hikes.",
+    "Previously, I completed my degree at FPT University, and have interned at Some Lab. Outside of research I enjoy open-source, teaching, and long hikes.",
   ],
   links: [
     { label: "Google Scholar", href: "https://scholar.google.com/" },
-    { label: "GitHub", href: "https://github.com/" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/" },
-    { label: "X / Twitter", href: "https://x.com/" },
-    { label: "CV (PDF)", href: "/cv.pdf" },
+    { label: "Phone", href: "tel:+84385482406" },
+    { label: "Zalo", href: "https://zalo.me/+84385482406" },
+    { label: "Facebook", href: "https://www.facebook.com/dohoanglam.dev" },
   ],
 };
 
@@ -36,7 +33,7 @@ export const news = [
 
 export const publications = [
   {
-    title: "Paper Title: A Catchy Subtitle About Your Contribution",
+    title: "Paper Title: A Catchy Subtitle About AI Agent Contribution",
     authors: "Hoang Lam",
     venue: "NeurIPS 2026",
     tag: "Spotlight",
@@ -48,7 +45,7 @@ export const publications = [
   },
   {
     title: "Understanding In-Context Learning Through Sparse Circuits",
-    authors: "Coauthor A, Your Name, Coauthor C",
+    authors: "Hoang Lam",
     venue: "ICLR 2026",
     tag: "",
     links: [
@@ -58,7 +55,7 @@ export const publications = [
   },
   {
     title: "Scaling Laws for Reasoning Under Limited Supervision",
-    authors: "Your Name, Coauthor D",
+    authors: "Hoang Lam",
     venue: "ACL 2025",
     tag: "Best Paper Nominee",
     links: [{ label: "PDF", href: "#" }],
