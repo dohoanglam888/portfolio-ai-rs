@@ -7,7 +7,6 @@ export const metadata: Metadata = {
   description: profile.tagline,
   openGraph: {
     title: `${profile.name} — ${profile.title}`,
-    icon: "favicon.ico",
     description: profile.tagline,
     type: "website",
   },
