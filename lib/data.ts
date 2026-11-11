@@ -1,13 +1,13 @@
 // ✏️ Edit this file to personalize your portfolio. All content lives here.
 
 export const profile = {
-  name: "Your Name",
+  name: "Do Hoang Lam",
   title: "AI Researcher",
   tagline:
     "I study how large models learn, reason, and fail — and build methods to make them more reliable, efficient, and aligned.",
-  affiliation: "Your University / Lab",
-  location: "City, Country",
-  email: "you@example.com",
+  affiliation: "FPT University",
+  location: "Ho Chi Minh City, Vietnam",
+  email: "dohoanglam2902@gmail.com",
   about: [
     "I'm an AI researcher working at the intersection of machine learning, natural language processing, and interpretability. My work asks why modern neural networks generalize, and how we can make their behavior more predictable.",
     "Previously, I completed my degree at Your University, and have interned at Some Lab. Outside of research I enjoy open-source, teaching, and long hikes.",
@@ -37,7 +37,7 @@ export const news = [
 export const publications = [
   {
     title: "Paper Title: A Catchy Subtitle About Your Contribution",
-    authors: "Your Name, Coauthor A, Coauthor B",
+    authors: "Hoang Lam",
     venue: "NeurIPS 2026",
     tag: "Spotlight",
     links: [
